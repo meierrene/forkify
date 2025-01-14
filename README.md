@@ -46,19 +46,20 @@ Forkify is deployed and live at: [**Forkify on Netlify**](https://renemeier-fork
 
 1. **Recipe Loading Process**:
 
-   ![Recipe Loading](./forkify-architecture-recipe-loading.png)
+![forkify-architecture-recipe-loading](https://github.com/user-attachments/assets/c399a0c6-9399-4c70-b004-7eff3668a441)
 
-2. **Search & Pagination Flow**:
+3. **Search & Pagination Flow**:
 
-   ![Search Flow](./forkify-flowchart-part-1.png)
+![forkify-flowchart-part-1](https://github.com/user-attachments/assets/e32bbb65-8270-4634-ba57-24d3bcec3ce1)
 
-3. **Bookmarking and Recipe Management**:
+4. **Bookmarking and Recipe Management**:
 
-   ![Bookmarking Flow](./forkify-flowchart-part-2.png)
+![forkify-flowchart-part-2](https://github.com/user-attachments/assets/bf258b73-04ad-4403-a560-ea5fc0f4a401)
 
-4. **Adding Recipes Workflow**:
 
-   ![Add Recipe Flow](./forkify-flowchart-part-3.png)
+5. **Adding Recipes Workflow**:
+
+   ![forkify-flowchart-part-3](https://github.com/user-attachments/assets/b3a0852f-935b-44cd-8289-ee364aca6ba0)
 
 ---
 
@@ -113,6 +114,9 @@ Forkify uses modular SCSS for maintainable and scalable styling. Key partials in
 
 - Developed during the [JavaScript Master Course](https://www.udemy.com/course/the-complete-javascript-course/) by Jonas Schmedtmann.
 - API support by the **Forkify API**.
+
+
+
 
 ---
 
