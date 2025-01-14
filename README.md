@@ -4,7 +4,7 @@ Forkify is a **modern recipe application** that allows users to discover, bookma
 
 ---
 
-![Forkify Banner](https://via.placeholder.com/800x300?text=Forkify+App+Banner)
+![logo](https://github.com/user-attachments/assets/3f36cade-7c16-4915-84b2-fd4b4c5fbd3c)
 
 ## 🚀 Features
 
@@ -125,5 +125,3 @@ Forkify uses modular SCSS for maintainable and scalable styling. Key partials in
 We welcome contributions! Feel free to submit issues or pull requests to make Forkify even better.
 
 ---
-
-![Thank You Banner](https://via.placeholder.com/800x200?text=Thanks+for+visiting+Forkify!)
