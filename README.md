@@ -91,10 +91,10 @@ Contributions are welcome! If you’d like to suggest improvements or add featur
 
 ## 💬 Connect with Me
 
-GitHub: [@meierrene](https://github.com/meierrene).
-LinkedIn: [René Meier](https://www.linkedin.com/in/renemeierdev/).
-Instagram: [@renemeier.de](https://www.instagram.com/renemeier.de/).
-Steam: [René Meier](https://steamcommunity.com/profiles/76561198223067764/.)
+- GitHub: [meierrene](https://github.com/meierrene).
+- LinkedIn: [René Meier](https://www.linkedin.com/in/renemeierdev/).
+- Instagram: [renemeier.de](https://www.instagram.com/renemeier.de/).
+- Steam: [René Meier](https://steamcommunity.com/profiles/76561198223067764/.)
 
 ## 💡 Support My Work
 
@@ -102,7 +102,7 @@ Love what you see? Your support helps me keep creating. Consider donating via Pa
 
 ## 📱 Quick Contact via WhatsApp
 
-Click the icon on the portfolio to message me directly, or use this link: Message me on WhatsApp
+Click the icon on the portfolio to message me directly, or use this link: [Message me on WhatsApp](https://api.whatsapp.com/send?phone=5519984308466&text=Hi%20Ren%C3%A9%21%0AI%20found%20you%20in%20your%20portfolio%21).
 
 ---
 
