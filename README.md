@@ -102,7 +102,7 @@ Love what you see? Your support helps me keep creating. Consider donating via Pa
 
 ## 📱 Quick Contact via WhatsApp
 
-Click the icon on the portfolio to message me directly, or use this link: [Message me on WhatsApp](https://api.whatsapp.com/send?phone=5519984308466&text=Hi%20Ren%C3%A9%21%0AI%20found%20you%20in%20your%20portfolio%21).
+Click the icon on the portfolio to message me directly, or use this link: [Message me on WhatsApp](https://api.whatsapp.com/send?phone=5519984308466&text=Hi%20Ren%C3%A9%21%0AI%20found%20you%20in%20your%20portfolio%27s%20GitHub%21).
 
 ---
 
