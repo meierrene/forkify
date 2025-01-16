@@ -115,9 +115,6 @@ Forkify uses modular SCSS for maintainable and scalable styling. Key partials in
 - Developed during the [JavaScript Master Course](https://www.udemy.com/course/the-complete-javascript-course/) by Jonas Schmedtmann.
 - API support by the **Forkify API**.
 
-
-
-
 ---
 
 ## 🤝 Contribute
