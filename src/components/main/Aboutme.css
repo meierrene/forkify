@@ -7,13 +7,6 @@
   gap: 1.8rem;
 }
 
-.personal-pic {
-  width: 16rem;
-  height: auto;
-  border-radius: 50%;
-  border: 8px solid #444;
-}
-
 .story-telling {
   padding: 1.8rem;
   text-justify: distribute;

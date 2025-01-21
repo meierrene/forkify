@@ -4,11 +4,6 @@ const Aboutme = () => {
   return (
     <div className="aboutme-container">
       <h2 className="h2-title">About me</h2>
-      <img
-        className="personal-pic"
-        src={'./img/profile.jpg'}
-        alt="Portfolio Author"
-      />
       <div className="story-telling">
         <p>
           <span role="img" aria-label="waving hand">
